@@ -26,7 +26,7 @@ def run():
 
     st.write("# Welcome to MyHello! 👋")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Select a Mydemo above.")
 
     st.markdown(
         """
